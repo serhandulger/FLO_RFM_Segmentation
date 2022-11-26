@@ -1,14 +1,14 @@
 # FLO_RFM_Segmentation
 
 ########################################
- WHAT IS FLO ?
+# WHAT IS FLO ?
 ########################################
 
 FLO operates in the retail shoe industry. It provides service with a total of over 100 stores in 21 countries, mainly in Azerbaijan, Albania, Saudi Arabia, Kosovo, Jordan, Kazakhstan, Uzbekistan, Iraq and Georgia. FLO Retailing also continues to open and grow stores in the African continent.
 
 
 ########################################
- Business Problem
+# Business Problem
 ########################################
 
 FLO wants to set a roadmap for sales and marketing activities.
