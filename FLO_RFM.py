@@ -1,4 +1,9 @@
+########################################
+# Business Problem
+########################################
 
+"""FLO wants to set a roadmap for sales and marketing activities. It is necessary to segment the customers based on the values of them just before making any decision and investment plan for marketing & customer experience strategies.
+Our project will help FLO to segment their customers to be able to detect their customer segments based on customers’ values"""
 ########################################
 # Dataset Story
 ########################################
