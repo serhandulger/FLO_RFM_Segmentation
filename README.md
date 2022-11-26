@@ -1,19 +1,19 @@
 # FLO_RFM_Segmentation
 
 ########################################
-###### WHAT IS FLO ?
+ WHAT IS FLO ?
 ########################################
 
-“””FLO operates in the retail shoe industry. It provides service with a total of over 100 stores in 21 countries, mainly in Azerbaijan, Albania, Saudi Arabia, Kosovo, Jordan, Kazakhstan, Uzbekistan, Iraq and Georgia. FLO Retailing also continues to open and grow stores in the African continent.”””
+FLO operates in the retail shoe industry. It provides service with a total of over 100 stores in 21 countries, mainly in Azerbaijan, Albania, Saudi Arabia, Kosovo, Jordan, Kazakhstan, Uzbekistan, Iraq and Georgia. FLO Retailing also continues to open and grow stores in the African continent.
 
 
 ########################################
-###### (Business Problem)
+ Business Problem
 ########################################
 
-""" FLO wants to set a roadmap for sales and marketing activities.
+FLO wants to set a roadmap for sales and marketing activities.
 It is necessary to segment  the customers  based on the values of them just before making any decision and investment plan for marketing & customer experience strategies. Our project will help FLO to segment their customers to be able to detect their customer segments based on customers’ values.
-"""
+
 
 ########################################
 # Dataset Story
@@ -36,5 +36,5 @@ customer_value_total_ever_offline : The total price paid by the customer for off
 customer_value_total_ever_online : The total price paid by the customer for their online shopping
 interested_in_categories_12 : List of categories the customer has purchased from in the last 12 months
 
-# References: www.datacamp.com , www.veribilimiokulu.com , www.miuul.com , https://kurumsal.flo.com.tr/hakkimizda
+References: www.datacamp.com , www.veribilimiokulu.com , www.miuul.com , https://kurumsal.flo.com.tr/hakkimizda
 
